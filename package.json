@@ -4,7 +4,7 @@
     "email": "@calidion",
     "name": "calidion"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "bin": {
     "sails": "./bin/sails.js"
   },
@@ -60,8 +60,8 @@
     "sails-util": "~0.10.3",
     "semver": "^4.3.2",
     "skipper": "~0.5.5",
-    "uid-safe": "^1.0.1",
-    "waterline": "~0.10.17"
+    "t1bao-waterline": "0.0.1",
+    "uid-safe": "^1.0.1"
   },
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "devDependencies": {
@@ -107,7 +107,6 @@
   ],
   "main": "./lib/index.js",
   "optionalDependencies": {},
-
   "repository": {
     "type": "git",
     "url": "git://github.com/calidion/mysails.git"
