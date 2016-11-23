@@ -47,7 +47,6 @@
     "method-override": "~2.3.0",
     "mock-req": "0.1.0",
     "mock-res": "0.1.0",
-    "node-uuid": "~1.4.0",
     "pluralize": "~0.0.5",
     "prompt": "~0.2.13",
     "rc": "~0.5.0",
@@ -61,7 +60,8 @@
     "semver": "^4.3.2",
     "skipper": "~0.5.5",
     "t1bao-waterline": "0.0.2",
-    "uid-safe": "^1.0.1"
+    "uid-safe": "^1.0.1",
+    "uuid": "^3.0.0"
   },
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "devDependencies": {
